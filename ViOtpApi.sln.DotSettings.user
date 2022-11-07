@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=40d45efd_002Dbd08_002D4ff6_002D8dcc_002D8730c4442c4a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUserBalance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01::net6.0::ViOtpApi.UnitTest.ViOtpTest.GetUserBalance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01::net6.0::ViOtpApi.UnitTest.ViOtpTest.GetSupportedApplication&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01::net6.0::ViOtpApi.UnitTest.ViOtpTest.RequestPhoneNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01::net6.0::ViOtpApi.UnitTest.ViOtpTest.GetSessionHistory&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d11f7363_002D2d2b_002D4aea_002Db09a_002Df162a398fbd5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetUserBalance #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01::net6.0::ViOtpApi.UnitTest.ViOtpTest.GetUserBalance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01::net6.0::ViOtpApi.UnitTest.ViOtpTest.GetSupportedApplication&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01::net6.0::ViOtpApi.UnitTest.ViOtpTest.RequestPhoneNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01::net6.0::ViOtpApi.UnitTest.ViOtpTest.GetSessionHistory&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

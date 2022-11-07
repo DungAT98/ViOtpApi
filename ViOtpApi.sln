@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViOtpApi", "ViOtpApi\ViOtpApi.csproj", "{A2E42B05-C650-4A88-BE87-1BF5B1414E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViOtpApi.UnitTest", "ViOtpApi.UnitTest\ViOtpApi.UnitTest.csproj", "{FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E42B05-C650-4A88-BE87-1BF5B1414E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E42B05-C650-4A88-BE87-1BF5B1414E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E42B05-C650-4A88-BE87-1BF5B1414E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E42B05-C650-4A88-BE87-1BF5B1414E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9B92A8-6D5D-4A54-9629-6D5C46CD1B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
