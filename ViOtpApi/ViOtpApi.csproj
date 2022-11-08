@@ -2,6 +2,17 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>DungAT.ViOtpApi</PackageId>
+        <Title>ViOtpApi</Title>
+        <Authors>DungAT</Authors>
+        <Description>API adapter support for ViOtp</Description>
+        <Copyright>DungAT</Copyright>
+        <PackageProjectUrl>https://github.com/DungAT98/ViOtpApi</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/DungAT98/ViOtpApi</RepositoryUrl>
+        <Company>DungAT</Company>
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <FileVersion>1.0.0</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>
